@@ -1,0 +1,54 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# AWS
+.aws/
+credentials
+config
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+temp/
+output/
+*.json.backup
+
+# Keep sample data
+!data/*.json

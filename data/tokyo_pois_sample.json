@@ -1,0 +1,162 @@
+[
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "東京都新宿区西新宿２-８-１",
+    "Coordinates": {
+      "Longitude": 139.69170523793,
+      "Latitude": 35.689486328368
+    },
+    "Address": "１ ",
+    "Neighborhood": "２",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "AddressType",
+    "Description": "東京都新宿区西新宿２-８-１ in Tokyo",
+    "Relevance": 0
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Pam'yatnyk ukrainskym Sichovym Striltsiam ta zhertvam pershoi svitovoi viiny, Toky, Ternopil's'ka oblast', UKR",
+    "Coordinates": {
+      "Longitude": 26.2225001,
+      "Latitude": 49.633333
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "Toky",
+    "Country": "UKR",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Pam'yatnyk ukrainskym Sichovym Striltsiam ta zhertvam pershoi svitovoi viiny, Toky, Ternopil's'ka oblast', UKR - tourist attraction in Tokyo",
+    "Relevance": 0.9154000000000001
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Pamyatnyk na chest voiniv-odnoseltsiv, zahyblykh u VVV, Toky, Ternopil's'ka oblast', UKR",
+    "Coordinates": {
+      "Longitude": 26.2225436,
+      "Latitude": 49.6322823
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "Toky",
+    "Country": "UKR",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Pamyatnyk na chest voiniv-odnoseltsiv, zahyblykh u VVV, Toky, Ternopil's'ka oblast', UKR - tourist attraction in Tokyo",
+    "Relevance": 0.9154000000000001
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Pam'yatnyk Shevchenku T, Toky, Ternopil's'ka oblast', UKR",
+    "Coordinates": {
+      "Longitude": 26.2224338,
+      "Latitude": 49.631728
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "Toky",
+    "Country": "UKR",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Pam'yatnyk Shevchenku T, Toky, Ternopil's'ka oblast', UKR - tourist attraction in Tokyo",
+    "Relevance": 0.9154000000000001
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "すき家, Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.693230299,
+      "Latitude": 35.687813669
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "すき家, Shinjuku, Tokyo, JPN - restaurant in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Royal Host, Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.693607139,
+      "Latitude": 35.691376068
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Royal Host, Shinjuku, Tokyo, JPN - restaurant in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Denny's, Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.6894768,
+      "Latitude": 35.692134874
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Denny's, Shinjuku, Tokyo, JPN - restaurant in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Hyatt Regency Tokyo, Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.690998544,
+      "Latitude": 35.690886306
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Hyatt Regency Tokyo, Shinjuku, Tokyo, JPN - hotel in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Keio Plaza Hotel, Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.694318581,
+      "Latitude": 35.690105248
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Keio Plaza Hotel, Shinjuku, Tokyo, JPN - hotel in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "South Bldg., Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.694648181,
+      "Latitude": 35.689606173
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "South Bldg., Shinjuku, Tokyo, JPN - hotel in Tokyo",
+    "Relevance": 1
+  }
+]

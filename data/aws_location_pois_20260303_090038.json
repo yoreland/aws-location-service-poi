@@ -1,0 +1,482 @@
+[
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "東京都新宿区西新宿２-８-１",
+    "Coordinates": {
+      "Longitude": 139.69170523793,
+      "Latitude": 35.689486328368
+    },
+    "Address": "１ ",
+    "Neighborhood": "２",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "AddressType",
+    "Description": "東京都新宿区西新宿２-８-１ in Tokyo",
+    "Relevance": 0
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Pam'yatnyk ukrainskym Sichovym Striltsiam ta zhertvam pershoi svitovoi viiny, Toky, Ternopil's'ka oblast', UKR",
+    "Coordinates": {
+      "Longitude": 26.2225001,
+      "Latitude": 49.633333
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "Toky",
+    "Country": "UKR",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Pam'yatnyk ukrainskym Sichovym Striltsiam ta zhertvam pershoi svitovoi viiny, Toky, Ternopil's'ka oblast', UKR - tourist attraction in Tokyo",
+    "Relevance": 0.9154000000000001
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Pamyatnyk na chest voiniv-odnoseltsiv, zahyblykh u VVV, Toky, Ternopil's'ka oblast', UKR",
+    "Coordinates": {
+      "Longitude": 26.2225436,
+      "Latitude": 49.6322823
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "Toky",
+    "Country": "UKR",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Pamyatnyk na chest voiniv-odnoseltsiv, zahyblykh u VVV, Toky, Ternopil's'ka oblast', UKR - tourist attraction in Tokyo",
+    "Relevance": 0.9154000000000001
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Pam'yatnyk Shevchenku T, Toky, Ternopil's'ka oblast', UKR",
+    "Coordinates": {
+      "Longitude": 26.2224338,
+      "Latitude": 49.631728
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "Toky",
+    "Country": "UKR",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Pam'yatnyk Shevchenku T, Toky, Ternopil's'ka oblast', UKR - tourist attraction in Tokyo",
+    "Relevance": 0.9154000000000001
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "すき家, Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.693230299,
+      "Latitude": 35.687813669
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "すき家, Shinjuku, Tokyo, JPN - restaurant in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Royal Host, Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.693607139,
+      "Latitude": 35.691376068
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Royal Host, Shinjuku, Tokyo, JPN - restaurant in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Denny's, Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.6894768,
+      "Latitude": 35.692134874
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Denny's, Shinjuku, Tokyo, JPN - restaurant in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Hyatt Regency Tokyo, Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.690998544,
+      "Latitude": 35.690886306
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Hyatt Regency Tokyo, Shinjuku, Tokyo, JPN - hotel in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "Keio Plaza Hotel, Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.694318581,
+      "Latitude": 35.690105248
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Keio Plaza Hotel, Shinjuku, Tokyo, JPN - hotel in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Tokyo",
+    "Continent": "Asia",
+    "Name": "South Bldg., Shinjuku, Tokyo, JPN",
+    "Coordinates": {
+      "Longitude": 139.694648181,
+      "Latitude": 35.689606173
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "N/A",
+    "Country": "JPN",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "South Bldg., Shinjuku, Tokyo, JPN - hotel in Tokyo",
+    "Relevance": 1
+  },
+  {
+    "City": "Paris",
+    "Continent": "Europe",
+    "Name": "Renault-Cergy Pontoise Cedex, 75004, 4e Arrondissement, Paris, Île-de-France, FRA",
+    "Coordinates": {
+      "Longitude": 2.35219,
+      "Latitude": 48.85661
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "Paris",
+    "Country": "FRA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Renault-Cergy Pontoise Cedex, 75004, 4e Arrondissement, Paris, Île-de-France, FRA in Paris",
+    "Relevance": 0
+  },
+  {
+    "City": "Paris",
+    "Continent": "Europe",
+    "Name": "Bouroullecs Les Fontaines, Avenue Matignon, 75008, 8e Arrondissement, Paris, Île-de-France, FRA",
+    "Coordinates": {
+      "Longitude": 2.3106,
+      "Latitude": 48.8691
+    },
+    "Address": " Avenue Matignon",
+    "Neighborhood": "N/A",
+    "Municipality": "Paris",
+    "Country": "FRA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Bouroullecs Les Fontaines, Avenue Matignon, 75008, 8e Arrondissement, Paris, Île-de-France, FRA - tourist attraction in Paris",
+    "Relevance": 1
+  },
+  {
+    "City": "Paris",
+    "Continent": "Europe",
+    "Name": "Palazzo Borsa Di Commercio, 75004, 4e Arrondissement, Paris, Île-de-France, FRA",
+    "Coordinates": {
+      "Longitude": 2.3521,
+      "Latitude": 48.8566
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "Paris",
+    "Country": "FRA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Palazzo Borsa Di Commercio, 75004, 4e Arrondissement, Paris, Île-de-France, FRA - tourist attraction in Paris",
+    "Relevance": 1
+  },
+  {
+    "City": "Paris",
+    "Continent": "Europe",
+    "Name": "Courtyard Of The City Hall, Place de l'Hôtel de Ville, 75004, 4e Arrondissement, Paris, Île-de-France, FRA",
+    "Coordinates": {
+      "Longitude": 2.3516,
+      "Latitude": 48.8567
+    },
+    "Address": " Place de l' Hôtel de Ville",
+    "Neighborhood": "N/A",
+    "Municipality": "Paris",
+    "Country": "FRA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Courtyard Of The City Hall, Place de l'Hôtel de Ville, 75004, 4e Arrondissement, Paris, Île-de-France, FRA - tourist attraction in Paris",
+    "Relevance": 1
+  },
+  {
+    "City": "Paris",
+    "Continent": "Europe",
+    "Name": "Korrigans Foodtruck, Place de l'Hôtel de Ville-Esplanade de la Libération, 75004, 4e Arrondissement, Paris, Île-de-France, FRA",
+    "Coordinates": {
+      "Longitude": 2.352222,
+      "Latitude": 48.856613
+    },
+    "Address": " Place de l' Hôtel de Ville-Esplanade de la Libération",
+    "Neighborhood": "N/A",
+    "Municipality": "Paris",
+    "Country": "FRA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Korrigans Foodtruck, Place de l'Hôtel de Ville-Esplanade de la Libération, 75004, 4e Arrondissement, Paris, Île-de-France, FRA - restaurant in Paris",
+    "Relevance": 1
+  },
+  {
+    "City": "Paris",
+    "Continent": "Europe",
+    "Name": "Tuvalet, 8 Place de l'Hôtel de Ville-Esplanade de la Libération, 75004, 4e Arrondissement, Paris, Île-de-France, FRA",
+    "Coordinates": {
+      "Longitude": 2.352222,
+      "Latitude": 48.8566132
+    },
+    "Address": "8 Place de l' Hôtel de Ville-Esplanade de la Libération",
+    "Neighborhood": "N/A",
+    "Municipality": "Paris",
+    "Country": "FRA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Tuvalet, 8 Place de l'Hôtel de Ville-Esplanade de la Libération, 75004, 4e Arrondissement, Paris, Île-de-France, FRA - restaurant in Paris",
+    "Relevance": 1
+  },
+  {
+    "City": "Paris",
+    "Continent": "Europe",
+    "Name": "Poke Me 5, 75004, 4e Arrondissement, Paris, Île-de-France, FRA",
+    "Coordinates": {
+      "Longitude": 2.352222,
+      "Latitude": 48.856614
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "Paris",
+    "Country": "FRA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Poke Me 5, 75004, 4e Arrondissement, Paris, Île-de-France, FRA - restaurant in Paris",
+    "Relevance": 1
+  },
+  {
+    "City": "Paris",
+    "Continent": "Europe",
+    "Name": "Cyclobus Hôtel DeVille, 4 Avenue Victoria, 75004, 4e Arrondissement, Paris, Île-de-France, FRA",
+    "Coordinates": {
+      "Longitude": 2.3507152,
+      "Latitude": 48.8570754
+    },
+    "Address": "4 Avenue Victoria",
+    "Neighborhood": "N/A",
+    "Municipality": "Paris",
+    "Country": "FRA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Cyclobus Hôtel DeVille, 4 Avenue Victoria, 75004, 4e Arrondissement, Paris, Île-de-France, FRA - hotel in Paris",
+    "Relevance": 1
+  },
+  {
+    "City": "Paris",
+    "Continent": "Europe",
+    "Name": "Hotel Duo, 11 Rue du Temple, 75004, 4e Arrondissement, Paris, Île-de-France, FRA",
+    "Coordinates": {
+      "Longitude": 2.352927,
+      "Latitude": 48.858112
+    },
+    "Address": "11 Rue du Temple",
+    "Neighborhood": "N/A",
+    "Municipality": "Paris",
+    "Country": "FRA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Hotel Duo, 11 Rue du Temple, 75004, 4e Arrondissement, Paris, Île-de-France, FRA - hotel in Paris",
+    "Relevance": 1
+  },
+  {
+    "City": "Paris",
+    "Continent": "Europe",
+    "Name": "Hotel Sansonnet, 48 Rue de la Verrerie, 75004, 4e Arrondissement, Paris, Île-de-France, FRA",
+    "Coordinates": {
+      "Longitude": 2.3527585,
+      "Latitude": 48.8581685
+    },
+    "Address": "48 Rue de la Verrerie",
+    "Neighborhood": "N/A",
+    "Municipality": "Paris",
+    "Country": "FRA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Hotel Sansonnet, 48 Rue de la Verrerie, 75004, 4e Arrondissement, Paris, Île-de-France, FRA - hotel in Paris",
+    "Relevance": 1
+  },
+  {
+    "City": "New York",
+    "Continent": "North America",
+    "Name": "Headout, New York, NY, 10007, USA",
+    "Coordinates": {
+      "Longitude": -74.005971,
+      "Latitude": 40.71278
+    },
+    "Address": " ",
+    "Neighborhood": "Civic Center",
+    "Municipality": "New York",
+    "Country": "USA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Headout, New York, NY, 10007, USA in New York",
+    "Relevance": 0
+  },
+  {
+    "City": "New York",
+    "Continent": "North America",
+    "Name": "Statue of Liberty, 1 Liberty Island, New York, NY, 10004, USA",
+    "Coordinates": {
+      "Longitude": -74.0448258,
+      "Latitude": 40.6895549
+    },
+    "Address": "1 Liberty Island",
+    "Neighborhood": "N/A",
+    "Municipality": "New York",
+    "Country": "USA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Statue of Liberty, 1 Liberty Island, New York, NY, 10004, USA - tourist attraction in New York",
+    "Relevance": 1
+  },
+  {
+    "City": "New York",
+    "Continent": "North America",
+    "Name": "8G Global, New York, NY, 10007, USA",
+    "Coordinates": {
+      "Longitude": -74.00597,
+      "Latitude": 40.71278
+    },
+    "Address": " ",
+    "Neighborhood": "Civic Center",
+    "Municipality": "New York",
+    "Country": "USA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "8G Global, New York, NY, 10007, USA - tourist attraction in New York",
+    "Relevance": 1
+  },
+  {
+    "City": "New York",
+    "Continent": "North America",
+    "Name": "Nathan Hale Statue, New York, NY, 10007, USA",
+    "Coordinates": {
+      "Longitude": -74.00639,
+      "Latitude": 40.71242
+    },
+    "Address": " ",
+    "Neighborhood": "Civic Center",
+    "Municipality": "New York",
+    "Country": "USA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Nathan Hale Statue, New York, NY, 10007, USA - tourist attraction in New York",
+    "Relevance": 1
+  },
+  {
+    "City": "New York",
+    "Continent": "North America",
+    "Name": "Ester's, New York, NY, 10007, USA",
+    "Coordinates": {
+      "Longitude": -74.00623,
+      "Latitude": 40.712862
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "New York",
+    "Country": "USA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Ester's, New York, NY, 10007, USA - restaurant in New York",
+    "Relevance": 1
+  },
+  {
+    "City": "New York",
+    "Continent": "North America",
+    "Name": "Starbucks, 38 Park Row, New York, NY, 10038, USA",
+    "Coordinates": {
+      "Longitude": -74.006739,
+      "Latitude": 40.711649
+    },
+    "Address": "38 Park Row",
+    "Neighborhood": "N/A",
+    "Municipality": "New York",
+    "Country": "USA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Starbucks, 38 Park Row, New York, NY, 10038, USA - restaurant in New York",
+    "Relevance": 1
+  },
+  {
+    "City": "New York",
+    "Continent": "North America",
+    "Name": "Juice & Smoothie Truck, New York, NY, 10007, USA",
+    "Coordinates": {
+      "Longitude": -74.007737,
+      "Latitude": 40.712756
+    },
+    "Address": " ",
+    "Neighborhood": "N/A",
+    "Municipality": "New York",
+    "Country": "USA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Juice & Smoothie Truck, New York, NY, 10007, USA - restaurant in New York",
+    "Relevance": 1
+  },
+  {
+    "City": "New York",
+    "Continent": "North America",
+    "Name": "Hotel in, 533 W 47th St, New York, NY, 10036, USA",
+    "Coordinates": {
+      "Longitude": -73.9947978,
+      "Latitude": 40.7636031
+    },
+    "Address": "533 W 47th St",
+    "Neighborhood": "Hells Kitchen",
+    "Municipality": "New York",
+    "Country": "USA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Hotel in, 533 W 47th St, New York, NY, 10036, USA - hotel in New York",
+    "Relevance": 1
+  },
+  {
+    "City": "New York",
+    "Continent": "North America",
+    "Name": "NY, 748 Bushwick Ave, Brooklyn, NY, 11221, USA",
+    "Coordinates": {
+      "Longitude": -73.929811,
+      "Latitude": 40.6957
+    },
+    "Address": "748 Bushwick Ave",
+    "Neighborhood": "Bushwick",
+    "Municipality": "Brooklyn",
+    "Country": "USA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "NY, 748 Bushwick Ave, Brooklyn, NY, 11221, USA - hotel in New York",
+    "Relevance": 1
+  },
+  {
+    "City": "New York",
+    "Continent": "North America",
+    "Name": "Hotel In, New York, NY, 10027, USA",
+    "Coordinates": {
+      "Longitude": -73.9462,
+      "Latitude": 40.8044
+    },
+    "Address": " ",
+    "Neighborhood": "Harlem",
+    "Municipality": "New York",
+    "Country": "USA",
+    "Entity_Type": "PointOfInterestType",
+    "Description": "Hotel In, New York, NY, 10027, USA - hotel in New York",
+    "Relevance": 1
+  }
+]
