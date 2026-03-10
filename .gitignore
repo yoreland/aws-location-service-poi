@@ -52,3 +52,4 @@ output/
 
 # Keep sample data
 !data/*.json
+results/

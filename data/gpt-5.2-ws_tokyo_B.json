@@ -1,0 +1,1095 @@
+{
+  "city": "Tokyo",
+  "macro_areas": [
+    {
+      "name": "Central Tokyo (Chiyoda / Chuo)",
+      "neighbourhoods": [
+        {
+          "display_name": "Marunouchi",
+          "aliases": [
+            "丸の内",
+            "Marunouchi Business District"
+          ],
+          "contains": [
+            "Otemachi",
+            "Yaesu"
+          ],
+          "contained_by": [],
+          "traveller_tag": [
+            "Business_traveler",
+            "Luxury_traveler",
+            "Mid-range_traveler",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Good transportation",
+            "Convenient amenities",
+            "Walkability",
+            "Safe",
+            "Cost: high"
+          ],
+          "entity_id": "213545003",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Otemachi",
+          "aliases": [
+            "大手町"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Marunouchi"
+          ],
+          "traveller_tag": [
+            "Business_traveler",
+            "Mid-range_traveler",
+            "Luxury_traveler"
+          ],
+          "geo_tag": [
+            "Good transportation",
+            "Convenient amenities",
+            "Quiet",
+            "Walkability",
+            "Cost: high"
+          ],
+          "entity_id": "205747517",
+          "entity_type": "MetroStation",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Yaesu",
+          "aliases": [
+            "八重洲",
+            "Tokyo Station East Side"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Marunouchi"
+          ],
+          "traveller_tag": [
+            "Business_traveler",
+            "Sightseeing_traveler",
+            "First-timer",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "Good transportation",
+            "Convenient amenities",
+            "Shopping",
+            "Walkability",
+            "Cost: high"
+          ],
+          "entity_id": "44292740",
+          "entity_type": "SecondLevelNationAdministrativeDivision",
+          "entity_match_score": 90.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Ginza",
+          "aliases": [
+            "銀座"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Luxury_traveler",
+            "Shopping_traveler",
+            "Couples",
+            "Friends",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Shopping",
+            "Good food",
+            "Photogenic",
+            "Walkability",
+            "Cost: high"
+          ],
+          "entity_id": "212666893",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Nihonbashi",
+          "aliases": [
+            "日本橋"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Sightseeing_traveler",
+            "Couples",
+            "Mid-range_traveler",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "History",
+            "Local / Authentic",
+            "Good food",
+            "Walkability",
+            "Cost: medium"
+          ],
+          "entity_id": "213546680",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Tsukiji",
+          "aliases": [
+            "築地"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Sightseeing_traveler",
+            "Foodies",
+            "Budget_traveler",
+            "Mid-range_traveler",
+            "First-timer"
+          ],
+          "geo_tag": [
+            "Good food",
+            "Local / Authentic",
+            "Walkability",
+            "Good transportation",
+            "Cost: medium"
+          ],
+          "entity_id": "213546867",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Akihabara",
+          "aliases": [
+            "秋葉原",
+            "Akiba"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Sightseeing_traveler",
+            "Solo",
+            "Friends",
+            "Budget_traveler",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "Shopping",
+            "Creative / Trendy",
+            "Good transportation",
+            "Convenient amenities",
+            "Cost: medium"
+          ],
+          "entity_id": "213546361",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        }
+      ]
+    },
+    {
+      "name": "Minato & Inner South-Central",
+      "neighbourhoods": [
+        {
+          "display_name": "Roppongi",
+          "aliases": [
+            "六本木"
+          ],
+          "contains": [
+            "Azabu"
+          ],
+          "contained_by": [],
+          "traveller_tag": [
+            "Nightlife",
+            "Luxury_traveler",
+            "Friends",
+            "Couples",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Nightlife",
+            "Culture / Museums",
+            "Good transportation",
+            "Good food",
+            "Cost: high"
+          ],
+          "entity_id": "212667306",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Akasaka",
+          "aliases": [
+            "赤坂"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Business_traveler",
+            "Mid-range_traveler",
+            "Luxury_traveler",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Good transportation",
+            "Good food",
+            "Convenient amenities",
+            "Quiet",
+            "Cost: high"
+          ],
+          "entity_id": "212665902",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Azabu",
+          "aliases": [
+            "麻布",
+            "Azabu-Juban"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Roppongi"
+          ],
+          "traveller_tag": [
+            "Luxury_traveler",
+            "Couples",
+            "Long-stay",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Local / Authentic",
+            "Good food",
+            "Quiet",
+            "Safe",
+            "Cost: high"
+          ],
+          "entity_id": "205747547",
+          "entity_type": "MetroStation",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Hiroo",
+          "aliases": [
+            "広尾"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Luxury_traveler",
+            "Long-stay",
+            "Families",
+            "Couples"
+          ],
+          "geo_tag": [
+            "Quiet",
+            "Safe",
+            "Convenient amenities",
+            "Local / Authentic",
+            "Cost: high"
+          ],
+          "entity_id": "205747600",
+          "entity_type": "MetroStation",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Shimbashi",
+          "aliases": [
+            "新橋"
+          ],
+          "contains": [
+            "Shiodome"
+          ],
+          "contained_by": [],
+          "traveller_tag": [
+            "Business_traveler",
+            "Mid-range_traveler",
+            "Budget_traveler",
+            "Solo"
+          ],
+          "geo_tag": [
+            "Good transportation",
+            "Convenient amenities",
+            "Good food",
+            "Nightlife",
+            "Cost: medium"
+          ],
+          "entity_id": "212672440",
+          "entity_type": "District",
+          "entity_match_score": 88.9,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Shiodome",
+          "aliases": [
+            "汐留"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Shimbashi"
+          ],
+          "traveller_tag": [
+            "Business_traveler",
+            "Luxury_traveler",
+            "Couples",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Good transportation",
+            "Good view",
+            "Walkability",
+            "Convenient amenities",
+            "Cost: high"
+          ],
+          "entity_id": "205747544",
+          "entity_type": "MetroStation",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        }
+      ]
+    },
+    {
+      "name": "Shibuya & West-Central",
+      "neighbourhoods": [
+        {
+          "display_name": "Shibuya",
+          "aliases": [
+            "渋谷"
+          ],
+          "contains": [
+            "Harajuku",
+            "Omotesando",
+            "Aoyama",
+            "Daikanyama"
+          ],
+          "contained_by": [],
+          "traveller_tag": [
+            "First-timer",
+            "Friends",
+            "Shopping_traveler",
+            "Sightseeing_traveler",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "Creative / Trendy",
+            "Nightlife",
+            "Shopping",
+            "Good transportation",
+            "Cost: high"
+          ],
+          "entity_id": "90715588",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Harajuku",
+          "aliases": [
+            "原宿",
+            "Takeshita Street Area"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Shibuya"
+          ],
+          "traveller_tag": [
+            "First-timer",
+            "Friends",
+            "Shopping_traveler",
+            "Budget_traveler",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "Creative / Trendy",
+            "Photogenic",
+            "Shopping",
+            "Walkability",
+            "Cost: medium"
+          ],
+          "entity_id": "206569668",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Omotesando",
+          "aliases": [
+            "表参道"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Shibuya"
+          ],
+          "traveller_tag": [
+            "Luxury_traveler",
+            "Couples",
+            "Shopping_traveler",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Shopping",
+            "Photogenic",
+            "Walkability",
+            "Good food",
+            "Cost: high"
+          ],
+          "entity_id": "206569657",
+          "entity_type": "TouristAttraction",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Aoyama",
+          "aliases": [
+            "青山"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Shibuya"
+          ],
+          "traveller_tag": [
+            "Luxury_traveler",
+            "Couples",
+            "Business_traveler",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Quiet",
+            "Photogenic",
+            "Good food",
+            "Safe",
+            "Cost: high"
+          ],
+          "entity_id": "220273101",
+          "entity_type": "TouristAttraction",
+          "entity_match_score": 90.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Ebisu",
+          "aliases": [
+            "恵比寿",
+            "Yebisu"
+          ],
+          "contains": [
+            "Daikanyama",
+            "Nakameguro"
+          ],
+          "contained_by": [],
+          "traveller_tag": [
+            "Couples",
+            "Friends",
+            "Second-timer",
+            "Mid-range_traveler",
+            "Leisure_traveler"
+          ],
+          "geo_tag": [
+            "Good food",
+            "Nightlife",
+            "Walkability",
+            "Convenient amenities",
+            "Cost: high"
+          ],
+          "entity_id": "213546954",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Daikanyama",
+          "aliases": [
+            "代官山"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Shibuya",
+            "Ebisu"
+          ],
+          "traveller_tag": [
+            "Couples",
+            "Second-timer",
+            "Luxury_traveler",
+            "Leisure_traveler"
+          ],
+          "geo_tag": [
+            "Creative / Trendy",
+            "Quiet",
+            "Photogenic",
+            "Walkability",
+            "Cost: high"
+          ],
+          "entity_id": "207172076",
+          "entity_type": "TouristAttraction",
+          "entity_match_score": 90.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Nakameguro",
+          "aliases": [
+            "中目黒",
+            "Meguro River Area"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Ebisu"
+          ],
+          "traveller_tag": [
+            "Couples",
+            "Second-timer",
+            "Leisure_traveler",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "Riverside views",
+            "Photogenic",
+            "Good food",
+            "Walkability",
+            "Cost: high"
+          ],
+          "entity_id": "213546624",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Shimokitazawa",
+          "aliases": [
+            "下北沢",
+            "Shimo-Kita"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Friends",
+            "Solo",
+            "Budget_traveler",
+            "Mid-range_traveler",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Creative / Trendy",
+            "Local / Authentic",
+            "Good food",
+            "Walkability",
+            "Cost: medium"
+          ],
+          "entity_id": "213546625",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        }
+      ]
+    },
+    {
+      "name": "Shinjuku & Inner West",
+      "neighbourhoods": [
+        {
+          "display_name": "Shinjuku",
+          "aliases": [
+            "新宿"
+          ],
+          "contains": [
+            "Kabukicho"
+          ],
+          "contained_by": [],
+          "traveller_tag": [
+            "First-timer",
+            "Business_traveler",
+            "Sightseeing_traveler",
+            "Mid-range_traveler",
+            "Friends"
+          ],
+          "geo_tag": [
+            "Good transportation",
+            "Shopping",
+            "Nightlife",
+            "Convenient amenities",
+            "Cost: high"
+          ],
+          "entity_id": "90715591",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Kabukicho",
+          "aliases": [
+            "歌舞伎町"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Shinjuku"
+          ],
+          "traveller_tag": [
+            "Friends",
+            "Solo",
+            "Nightlife",
+            "Budget_traveler",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "Nightlife",
+            "Convenient amenities",
+            "Good transportation",
+            "Walkability",
+            "Cost: medium"
+          ],
+          "entity_id": "206569756",
+          "entity_type": "TouristAttraction",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Yotsuya",
+          "aliases": [
+            "四谷",
+            "Yotsuya"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Business_traveler",
+            "Long-stay",
+            "Families",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "Quiet",
+            "Safe",
+            "Good transportation",
+            "Local / Authentic",
+            "Cost: medium"
+          ],
+          "entity_id": "205747723",
+          "entity_type": "MetroStation",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Kagurazaka",
+          "aliases": [
+            "神楽坂"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Couples",
+            "Second-timer",
+            "Leisure_traveler",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "History",
+            "Good food",
+            "Local / Authentic",
+            "Walkability",
+            "Cost: medium"
+          ],
+          "entity_id": "206569422",
+          "entity_type": "TouristAttraction",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        }
+      ]
+    },
+    {
+      "name": "West Tokyo (Local Hubs)",
+      "neighbourhoods": [
+        {
+          "display_name": "Nakano",
+          "aliases": [
+            "中野",
+            "Nakano Broadway Area"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Budget_traveler",
+            "Mid-range_traveler",
+            "Solo",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Local / Authentic",
+            "Shopping",
+            "Good transportation",
+            "Convenient amenities",
+            "Cost: low"
+          ],
+          "entity_id": "212664313",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Koenji",
+          "aliases": [
+            "高円寺"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Budget_traveler",
+            "Solo",
+            "Friends",
+            "Second-timer",
+            "Long-stay"
+          ],
+          "geo_tag": [
+            "Creative / Trendy",
+            "Local / Authentic",
+            "Good food",
+            "Walkability",
+            "Cost: low"
+          ],
+          "entity_id": "213546571",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Kichijoji",
+          "aliases": [
+            "吉祥寺"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Families",
+            "Couples",
+            "Second-timer",
+            "Long-stay",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "Local / Authentic",
+            "Good food",
+            "Walkability",
+            "Safe",
+            "Cost: medium"
+          ],
+          "entity_id": "206635550",
+          "entity_type": "TouristAttraction",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        }
+      ]
+    },
+    {
+      "name": "Northern Tokyo",
+      "neighbourhoods": [
+        {
+          "display_name": "Ikebukuro",
+          "aliases": [
+            "池袋"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Budget_traveler",
+            "Mid-range_traveler",
+            "Business_traveler",
+            "Friends",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Good transportation",
+            "Shopping",
+            "Convenient amenities",
+            "Nightlife",
+            "Cost: medium"
+          ],
+          "entity_id": "212667105",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Sugamo",
+          "aliases": [
+            "巣鴨",
+            "Harajuku for Grandmas"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Second-timer",
+            "Budget_traveler",
+            "Solo",
+            "Long-stay"
+          ],
+          "geo_tag": [
+            "Local / Authentic",
+            "Quiet",
+            "Good food",
+            "Walkability",
+            "Cost: low"
+          ],
+          "entity_id": "206569668",
+          "entity_type": "District",
+          "entity_match_score": 90.0,
+          "match_source": "primary"
+        }
+      ]
+    },
+    {
+      "name": "East Tokyo (Traditional & River)",
+      "neighbourhoods": [
+        {
+          "display_name": "Asakusa",
+          "aliases": [
+            "浅草"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "First-timer",
+            "Sightseeing_traveler",
+            "Families",
+            "Budget_traveler",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "History",
+            "Photogenic",
+            "Good food",
+            "Walkability",
+            "Cost: medium"
+          ],
+          "entity_id": "212665901",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Ueno",
+          "aliases": [
+            "上野"
+          ],
+          "contains": [
+            "Yanaka"
+          ],
+          "contained_by": [],
+          "traveller_tag": [
+            "First-timer",
+            "Sightseeing_traveler",
+            "Budget_traveler",
+            "Families",
+            "Solo"
+          ],
+          "geo_tag": [
+            "Culture / Museums",
+            "Good transportation",
+            "Convenient amenities",
+            "Walkability",
+            "Cost: medium"
+          ],
+          "entity_id": "206568920",
+          "entity_type": "TouristAttraction",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Yanaka",
+          "aliases": [
+            "谷中",
+            "Yanesen (Yanaka)"
+          ],
+          "contains": [],
+          "contained_by": [
+            "Ueno"
+          ],
+          "traveller_tag": [
+            "Second-timer",
+            "Couples",
+            "Solo",
+            "Budget_traveler",
+            "Leisure_traveler"
+          ],
+          "geo_tag": [
+            "History",
+            "Local / Authentic",
+            "Photogenic",
+            "Walkability",
+            "Cost: low"
+          ],
+          "entity_id": "206521471",
+          "entity_type": "TouristAttraction",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Ryogoku",
+          "aliases": [
+            "両国"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Sightseeing_traveler",
+            "Families",
+            "Second-timer",
+            "Budget_traveler",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "History",
+            "Culture / Museums",
+            "Riverside views",
+            "Quiet",
+            "Cost: medium"
+          ],
+          "entity_id": "206530273",
+          "entity_type": "TouristAttraction",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Oshiage",
+          "aliases": [
+            "押上",
+            "Skytree Area"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Families",
+            "First-timer",
+            "Sightseeing_traveler",
+            "Budget_traveler",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "Good view",
+            "Photogenic",
+            "Shopping",
+            "Good transportation",
+            "Cost: medium"
+          ],
+          "entity_id": "205747595",
+          "entity_type": "MetroStation",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        }
+      ]
+    },
+    {
+      "name": "Bay & South Tokyo",
+      "neighbourhoods": [
+        {
+          "display_name": "Odaiba",
+          "aliases": [
+            "お台場"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Families",
+            "Couples",
+            "Leisure_traveler",
+            "Mid-range_traveler",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Good view",
+            "Photogenic",
+            "Riverside views",
+            "Shopping",
+            "Cost: medium"
+          ],
+          "entity_id": "212667286",
+          "entity_type": "District",
+          "entity_match_score": 95.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Toyosu",
+          "aliases": [
+            "豊洲"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Families",
+            "Business_traveler",
+            "Long-stay",
+            "Mid-range_traveler"
+          ],
+          "geo_tag": [
+            "Riverside views",
+            "Convenient amenities",
+            "Quiet",
+            "Good transportation",
+            "Cost: medium"
+          ],
+          "entity_id": "205747755",
+          "entity_type": "MetroStation",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        },
+        {
+          "display_name": "Shinagawa",
+          "aliases": [
+            "品川"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Business_traveler",
+            "First-timer",
+            "Mid-range_traveler",
+            "Long-stay"
+          ],
+          "geo_tag": [
+            "Good transportation",
+            "Convenient amenities",
+            "Quiet",
+            "Safe",
+            "Cost: medium"
+          ],
+          "entity_id": "90715596",
+          "entity_type": "District",
+          "entity_match_score": 100.0,
+          "match_source": "primary"
+        },
+        {
+          "display_name": "Gotanda",
+          "aliases": [
+            "五反田"
+          ],
+          "contains": [],
+          "contained_by": [],
+          "traveller_tag": [
+            "Business_traveler",
+            "Budget_traveler",
+            "Mid-range_traveler",
+            "Solo",
+            "Second-timer"
+          ],
+          "geo_tag": [
+            "Good transportation",
+            "Convenient amenities",
+            "Good food",
+            "Local / Authentic",
+            "Cost: medium"
+          ],
+          "entity_id": "205747585",
+          "entity_type": "MetroStation",
+          "entity_match_score": 100.0,
+          "match_source": "fallback"
+        }
+      ]
+    }
+  ],
+  "city_entity_id": "27542089"
+}
